@@ -65,9 +65,7 @@ export default function Hero() {
           <Reveal delay={450}>
             <div className="mt-11 flex flex-wrap items-center gap-5">
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=osoworkmail00@gmail.com"
-                target="_blank"
-                rel="noreferrer"
+                href="#contact"
                 className="group inline-flex items-center gap-2 bg-brass px-6 py-3.5 font-mono text-[11px] tracking-[0.18em] text-ink transition-colors duration-300 hover:bg-paper"
               >
                 LET&apos;S TALK
@@ -123,8 +121,7 @@ export default function Hero() {
                   fill
                   priority
                   sizes="(min-width: 1024px) 38vw, 100vw"
-                  className="object-cover grayscale transition-all duration-700 hover:scale-[1.02] hover:grayscale-0"
-                />
+                  className="portrait-image object-cover grayscale transition-all duration-700 hover:scale-[1.02] hover:grayscale-0"                />
               </div>
               <figcaption className="flex items-center justify-between px-1 pt-3 font-mono text-[10px] tracking-[0.22em] text-paper-dim">
                 <span>MOYINOLUWA</span>

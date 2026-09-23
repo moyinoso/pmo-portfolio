@@ -51,4 +51,11 @@ body {
     transform: none;
     transition: none;
   }
+
+  /* Portrait behavior on touch devices */
+  @media (hover: none) {
+    .portrait-image {
+      filter: grayscale(0);
+    } 
+  }
 }
