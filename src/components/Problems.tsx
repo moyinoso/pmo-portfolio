@@ -30,7 +30,7 @@ export default function Problems() {
       <Reveal className="mt-14">
         <div className="border border-ink-line bg-ink-soft">
           <div className="flex items-center justify-between border-b border-ink-line px-6 py-4 font-mono text-[10px] tracking-[0.25em] text-paper-dim md:px-8">
-            <span>FIELD NOTES — VOL. 1</span>
+            <span>FIELD NOTES - VOL. 1</span>
             <span className="text-brass">OPEN QUESTIONS</span>
           </div>
           <ul>
@@ -54,8 +54,8 @@ export default function Problems() {
       <Reveal delay={120}>
         <p className="mt-8 font-mono text-[10px] tracking-[0.22em] text-paper-dim">
           IF ONE OF THESE IS YOUR PROBLEM TOO {" "}
-          <a
-            href={`mailto:${site.email}`}
+          <a 
+            href="#contact"
             className="text-brass underline-offset-4 transition-colors hover:underline"
           >
             I&rsquo;D LIKE TO HEAR ABOUT IT

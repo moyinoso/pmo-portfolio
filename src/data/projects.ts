@@ -278,7 +278,7 @@ export const projects: Project[] = [
     ],
     evidenceGroups: [
       {
-        title: "PMO'S APPAREL — FINANCIAL PERFORMANCE",
+        title: "PMO'S APPAREL - FINANCIAL PERFORMANCE",
         description: "The first dashboard focuses on revenue, expenses, profit, margin and product-level performance for the apparel business.",
         images: [
           { src: "/images/projects/apparel-1.jpg", caption: "Financial performance dashboard revenue, expenses and profit.", w: 1463, h: 564 }
@@ -326,7 +326,7 @@ export const projects: Project[] = [
     slug: "customer-churn",
     index: "03",
     title: "Customer Churn Analysis",
-    question: "Can you see churn coming — and how early?",
+    question: "Can you see churn coming, and how early?",
     context:
       "A subscription customer base, split into those who left and those who stayed. The question was whether the difference was visible before the goodbye. Analysed end-to-end in a Jupyter notebook.",
     tools: ["Python", "Pandas", "Plotly"],
