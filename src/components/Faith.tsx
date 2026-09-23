@@ -10,7 +10,7 @@ export default function Faith() {
             <span className="text-brass">Growth.</span>
           </p>
           <p className="mx-auto mt-7 max-w-md text-sm leading-relaxed text-paper-dim">
-            I'm a Seventh-day Adventist Christian. My faith quietly shapes
+            I&apos;m a Seventh-day Adventist Christian. My faith quietly shapes
             how I think about people, purpose, and the kind of impact worth
             having in work and outside it.
           </p>

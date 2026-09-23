@@ -1,7 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { Fraunces, Inter, IBM_Plex_Mono } from "next/font/google";
-// The stylesheet is handled by Next.js; suppress TypeScript's missing side-effect declaration.
-// @ts-expect-error Next.js resolves this CSS import at build time.
 import "./globals.css";
 
 const serif = Fraunces({

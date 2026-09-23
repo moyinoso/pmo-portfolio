@@ -57,7 +57,7 @@ export default function Hero() {
             <p className="mt-7 max-w-xl text-[15px] leading-relaxed text-paper-dim">
               Also known as <span className="text-paper">PMO</span>. I work
               across data analysis, technology, AI exploration, automation,
-              research and problem-solving and I'd rather stay curious
+              research and problem-solving and I&apos;d rather stay curious
               than stay categorised.
             </p>
           </Reveal>
@@ -70,7 +70,7 @@ export default function Hero() {
                 rel="noreferrer"
                 className="group inline-flex items-center gap-2 bg-brass px-6 py-3.5 font-mono text-[11px] tracking-[0.18em] text-ink transition-colors duration-300 hover:bg-paper"
               >
-                LET'S TALK
+                LET&apos;S TALK
                 <ArrowUpRight
                   size={15}
                   strokeWidth={1.75}
