@@ -17,7 +17,5 @@ export const links = {
   github: "https://github.com/moyinoso",
   linkedin: "https://www.linkedin.com/in/m-oso/",
   medium: "https://medium.com/@osoworkmail00",
-  portfolio: "https://www.datascienceportfol.io/osoworkmail00",
-  carrd: "https://moyinoluwaoso.carrd.co",
   resume: "/Moyinoluwa_Oso_Resume.pdf", 
 };

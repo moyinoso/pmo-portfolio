@@ -7,8 +7,6 @@ const places = [
   { label: "GitHub", note: "CODE & EXPERIMENTS", href: links.github },
   { label: "LinkedIn", note: "PROFESSIONAL HOME", href: links.linkedin },
   { label: "Medium", note: "WRITING, OCCASIONALLY", href: links.medium },
-  { label: "DataSciencePortfol.io", note: "THE PROJECT VAULT", href: links.portfolio },
-  { label: "Carrd", note: "THE OTHER ME", href: links.carrd },
 ];
 
 export default function Elsewhere() {

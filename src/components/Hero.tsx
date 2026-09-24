@@ -4,9 +4,7 @@ import {
   ArrowUpRight,
   FileText,
   Github,
-  Globe,
   Linkedin,
-  Link as LinkIcon,
 } from "lucide-react";
 import { links, site } from "@/data/links";
 import Reveal from "./Reveal";
@@ -14,8 +12,6 @@ import Reveal from "./Reveal";
 const socials = [
   { label: "GitHub", href: links.github, Icon: Github },
   { label: "LinkedIn", href: links.linkedin, Icon: Linkedin },
-  { label: "DataSciencePortfol.io", href: links.portfolio, Icon: Globe },
-  { label: "Carrd", href: links.carrd, Icon: LinkIcon },
   { label: "Résumé", href: links.resume, Icon: FileText },
 ];
 

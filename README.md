@@ -27,7 +27,7 @@ Open http://localhost:3000.
 
 | What | Where |
 | --- | --- |
-| Your URLs (GitHub, LinkedIn, Medium, DataSciencePortfol.io, Carrd) | `src/data/links.ts` |
+| Your URLs (GitHub, LinkedIn, Medium ) | `src/data/links.ts` |
 | Your real résumé (replace the placeholder) | `public/resume.pdf` |
 | Your domain | `NEXT_PUBLIC_SITE_URL` env var in Vercel (fallback in `src/app/layout.tsx`) |
 | Project copy, tools, links | `src/data/projects.ts` |
